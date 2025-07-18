@@ -1,0 +1,11 @@
+build/
+tmp/
+sstate-cache/
+downloads/
+*.swp
+*.log
+*.pyc
+*.o
+*.tmp
+*.bak
+.cache/
